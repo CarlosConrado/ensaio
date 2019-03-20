@@ -1,8 +1,8 @@
 ## Bem vindos a Boaz
 
-You can use the [editor on GitHub](https://github.com/CarlosConrado/ensaio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Essa página é apenas um teste.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Tudo o que você precisa saber sobre o cmd.
 
 ### Markdown
 
